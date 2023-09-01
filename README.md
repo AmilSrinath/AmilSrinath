@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amil Srinath</h1>
 <h3 align="center">Undergraduate Software Engineer</h3>
 
-<img src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=1380&t=st=1687595275~exp=1687595875~hmac=0b1dcf93a72c58c6c49e55d5fc82ad16fa5ad63053c742c113b2d7bad337c499">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amilsrinath&label=Profile%20views&color=0e75b6&style=flat" alt="amilsrinath" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amilsrinath" alt="amilsrinath" /></a> </p>
