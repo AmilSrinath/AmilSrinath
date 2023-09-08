@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amil Srinath</h1>
 <h3 align="center">Undergraduate Software Engineer</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=435&height=45&lines=Amil+Srinath;Programmer;Game+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=40&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=435&height=45&lines=♥️Amil+Srinath♥️;Programmer;Game+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amilsrinath&label=Profile%20views&color=0e75b6&style=flat" alt="amilsrinath" /> </p>
 
