@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/amil srinath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amil srinath" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/as thennakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="as thennakoon" height="30" width="40" /></a>
-<a href="https://fb.com/amilsrinath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amilsrinath" height="30" width="40" /></a>
+<a href="https://fb.com/srinath.thennakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amilsrinath" height="30" width="40" /></a>
 <a href="https://instagram.com/amilsrinath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amilsrinath" height="30" width="40" /></a>
 </p>
 
