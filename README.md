@@ -3,7 +3,7 @@
 
 <img src="https://t.bkit.co/w_663e6e6f2f027.gif" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=23&pause=1000&random=false&width=435&lines=%F0%9F%91%89+Amil+Srinath+%F0%9F%91%88;%F0%9F%91%89+Programmer+%F0%9F%91%88;%F0%9F%91%89+Game+Developer+%F0%9F%91%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=29&pause=1000&random=false&width=435&lines=%F0%9F%91%89+Amil+Srinath+%F0%9F%91%88;%F0%9F%91%89+Programmer+%F0%9F%91%88;%F0%9F%91%89+Game+Developer+%F0%9F%91%88)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amilsrinath&label=Profile%20views&color=0e75b6&style=flat" alt="amilsrinath" /> </p>
 
