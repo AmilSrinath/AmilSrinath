@@ -3,7 +3,7 @@
 
 <img src="https://t.bkit.co/w_663e6e6f2f027.gif" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=435&height=45&lines=%E2%99%A5%EF%B8%8FAmil+Srinath%E2%99%A5%EF%B8%8F;%F0%9F%92%BB+Programmer+%F0%9F%92%BB;%F0%9F%95%B9%EF%B8%8F+Game+Developer+%F0%9F%95%B9%EF%B8%8F;%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB+Trainer+%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;%F0%9F%8F%86%F0%9F%A5%87%F0%9F%A5%88%F0%9F%A5%89%F0%9F%8F%85%F0%9F%8E%96%EF%B8%8F%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=435&height=45&lines=%E2%99%A5%EF%B8%8FAmil+Srinath%E2%99%A5%EF%B8%8F;%F0%9F%92%BB+Programmer+%F0%9F%92%BB;%F0%9F%95%B9%EF%B8%8F+Game+Developer+%F0%9F%95%B9%EF%B8%8F;%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB;%F0%9F%8F%86%F0%9F%A5%87%F0%9F%A5%88%F0%9F%A5%89%F0%9F%8F%85%F0%9F%8E%96%EF%B8%8F%F0%9F%8F%86)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amilsrinath&label=Profile%20views&color=0e75b6&style=flat" alt="amilsrinath" /> </p>
 
