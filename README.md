@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Xim Project]([https://github.com/AmilSrinath/Myportfolio.git](https://github.com/AmilSrinath/AAD_Course_Work.git))
 
-- 👨‍💻 All of my projects are available at [https://github.com/AmilSrinath]([https://github.com/AmilSrinath](https://github.com/AmilSrinath?tab=repositories))
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/AmilSrinath?tab=repositories)
 
 - 📫 How to reach me **amilsrinath5@gmail.com**
 
